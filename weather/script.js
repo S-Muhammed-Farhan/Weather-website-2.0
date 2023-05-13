@@ -1,4 +1,4 @@
-const apiKey = "313cf3155132cef0477c9dc9e8766c1c";
+const apiKey = "abc";
 //you can get your api key after signing up in open weather map website , I have not included my apikey in this file which will be in github repository ,This code will only work if you include ur apikey //
 const apiUrl =
   "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
